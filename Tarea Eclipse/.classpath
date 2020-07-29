@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/Testing/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: Arquillian JUnit:Release"/>
+	<classpathentry kind="lib" path="/Testing/lib/junit-jupiter-5.4.2.jar"/>
+	<classpathentry kind="lib" path="/Testing/lib/junit-jupiter-5.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
